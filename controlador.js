@@ -139,10 +139,21 @@ let productos=Array(
 )
 
 //RECORRO EL ARREGLO
-let contenedor=document.getElementById
+let contenedor=document.getElementById("contenedor")
 productos.forEach(function(producto){
-alert("hola")
+let foto=document.createElement("img")
+foto.classList.add("w-100","img-fluid")
+foto.src=producto.foto
+contenedor.appendChild(foto)    
+let columna=document.createElement("div")
+columna.classList.add("col")
 
+let tarjeta=document.createElement("div")
+tarjeta.classList.add("card")
+
+tarjeta.appendChild(foto)
+columna.appendChild(tarjeta)
+contenedor.appendChild(columna)
 
 
 
