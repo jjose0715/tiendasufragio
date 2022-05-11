@@ -139,6 +139,16 @@ let productos=Array(
 )
 
 //RECORRO EL ARREGLO
+let contenedor=document.getElementById
 productos.forEach(function(producto){
-    console.log(producto.nombre)
+alert("hola")
+
+
+
+
+
+
+
+
+
 })
