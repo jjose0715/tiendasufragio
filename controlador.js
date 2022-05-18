@@ -175,6 +175,118 @@ let producto20={
     Popularidad:"⭐⭐⭐⭐☆☆☆☆☆☆",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-e5904.appspot.com/o/ps5%20mando.jfif?alt=media&token=e865efd6-04b8-47f7-8df1-f5528a16f88a"
 }
+let producto21={
+    nombre:"teclado rgb",
+    precio:"$453000",
+    estado:"nuevo",
+    pais:"colombia",
+    Popularidad:"⭐⭐⭐⭐⭐⭐⭐⭐☆☆",
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-e5904.appspot.com/o/teclado%20LGBTQ%2B.jpeg?alt=media&token=6aab2063-0013-4b00-af6e-012345f0ad49"
+}
+let producto22={
+    nombre:"mouse G502",
+    precio:"$160500",
+    estado:"nuevo",
+    pais:"colombia",
+    Popularidad:"⭐⭐⭐⭐⭐⭐☆☆☆☆",
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-e5904.appspot.com/o/mouse%20G502.jpeg?alt=media&token=f9c22d67-fc86-4c09-bf8c-81406d464181"
+}
+let producto23={
+    nombre:"mouse pad",
+    precio:"$78100",
+    estado:"en uso",
+    pais:"colombia",
+    Popularidad:"⭐⭐⭐⭐⭐⭐⭐☆☆☆",
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-e5904.appspot.com/o/mouse%20pad.jpeg?alt=media&token=83ef273c-8c47-4eff-b8d8-c9d1fa93ca42"
+}
+let producto24={
+    nombre:"microfono",
+    precio:"$432200",
+    estado:"en uso",
+    pais:"colombia",
+    Popularidad:"⭐⭐⭐⭐⭐⭐⭐☆☆☆",
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-e5904.appspot.com/o/microfono.jpeg?alt=media&token=d3908b79-658c-4442-86ec-4c1cf09a4a6b"
+}
+let producto25={
+    nombre:"teclado mecanico",
+    precio:"$160000",
+    estado:"en uso",
+    pais:"colombia",
+    Popularidad:"⭐⭐⭐⭐⭐⭐⭐⭐☆☆",
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-e5904.appspot.com/o/teclado%20mecanico.jpeg?alt=media&token=e8e3b5d7-1968-40c8-81ea-59fd0c7eb7d2"
+}
+let producto26={
+    nombre:"audifonos rbg",
+    precio:"$72600",
+    estado:"nuevo",
+    pais:"colombia",
+    Popularidad:"⭐⭐⭐⭐⭐⭐☆☆☆☆",
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-e5904.appspot.com/o/audifonos%20rgb.jpeg?alt=media&token=7c877f3d-c0b1-43a9-ae19-f0e1ea2541f1"
+}
+let producto27={
+    nombre:"Ryzen",
+    precio:"$1276000",
+    estado:"nuevo",
+    pais:"colombia",
+    Popularidad:"⭐⭐⭐⭐⭐⭐⭐☆☆☆",
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-e5904.appspot.com/o/ryzen.jpeg?alt=media&token=7b3a1fcf-473b-444d-910f-3b09f03edcb3"
+}
+let producto28={
+    nombre:"navaja",
+    precio:"$7600",
+    estado:"en uso",
+    pais:"colombia",
+    Popularidad:"⭐⭐⭐⭐☆☆☆☆☆☆",
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-e5904.appspot.com/o/navaja.jpeg?alt=media&token=49a80c45-9c56-4f17-8ff5-175ed203b8f0"
+}
+let producto29={
+    nombre:"tarjeta rtx",
+    precio:"$1400000",
+    estado:"nuevo",
+    pais:"colombia",
+    Popularidad:"⭐⭐⭐⭐⭐⭐⭐☆☆☆",
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-e5904.appspot.com/o/tarjeta%20Rtx.jpeg?alt=media&token=d751350f-1899-45a4-b73a-d861512a4d38"
+}
+let producto30={
+    nombre:"memoria ram",
+    precio:"$342000",
+    estado:"nuevo",
+    pais:"colombia",
+    Popularidad:"⭐⭐⭐⭐⭐⭐⭐⭐⭐☆",
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-e5904.appspot.com/o/memoria%20ram.jpeg?alt=media&token=b934ac87-ebc2-46ef-a195-15955f2a534c"
+}
+let producto31={
+    nombre:"pantalla",
+    precio:"$988000",
+    estado:"en uso",
+    pais:"colombia",
+    Popularidad:"⭐⭐⭐⭐⭐⭐⭐⭐⭐☆",
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-e5904.appspot.com/o/pantalla.jpeg?alt=media&token=426febdd-75ac-4657-a594-cb42550ca1f1"
+}
+let producto32={
+    nombre:"disco solido",
+    precio:"$185000",
+    estado:"en usp",
+    pais:"colombia",
+    Popularidad:"⭐⭐⭐⭐☆☆☆☆☆☆",
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-e5904.appspot.com/o/disco%20solido.jpeg?alt=media&token=789f25d3-5ef0-489e-a166-af5c439fe2ff"
+}
+let producto33={
+    nombre:"carcasa torre",
+    precio:"$370000",
+    estado:"nuevo",
+    pais:"colombia",
+    Popularidad:"⭐⭐⭐⭐⭐⭐☆☆☆☆",
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-e5904.appspot.com/o/carcasa%20torre%20pc.jpeg?alt=media&token=9d8d9dd3-d372-4c59-be14-76161cfc4579"
+}
+let producto34={
+    nombre:"silla gaming",
+    precio:"$743400",
+    estado:"en uso",
+    pais:"colombia",
+    Popularidad:"⭐⭐⭐⭐⭐⭐☆☆☆☆",
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-e5904.appspot.com/o/silla%20gaming.jpeg?alt=media&token=250fb15d-10e7-4b38-82f9-02c477ba7029"
+}
 
 //ARREGLO
 let productos=Array(
@@ -197,7 +309,21 @@ let productos=Array(
     producto17,
     producto18,
     producto19,
-    producto20
+    producto20,
+    producto21,
+    producto22,
+    producto23,
+    producto24,
+    producto25,
+    producto26,
+    producto27,
+    producto28,
+    producto29,
+    producto30,
+    producto31,
+    producto32,
+    producto33,
+    producto34
 )
 
 //RECORRO EL ARREGLO
@@ -206,12 +332,12 @@ productos.forEach(function(producto){
 let foto=document.createElement("img")
 foto.classList.add("w-100","img-fluid")
 foto.src=producto.foto
-contenedor.appendChild(foto)    
+contenedor.appendChild(foto)
 let columna=document.createElement("div")
 columna.classList.add("col")
 
 let tarjeta=document.createElement("div")
-tarjeta.classList.add("card")
+tarjeta.classList.add("card","h-100","shadow","p-4")
 
 let nombreProducto=document.createElement("h4")
 nombreProducto.classList.add("text-center")
